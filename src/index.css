@@ -1,0 +1,27 @@
+
+.contact{
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    border-color: black;
+    border-radius: 3%;
+    border-width: 1px;
+    border-style: solid;
+    width: 75%
+};
+
+.header{
+    margin: auto;
+    text-align: center;
+}
+
+.home{
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    border-color: black;
+    border-radius: 3%;
+    border-width: 1px;
+    border-style: solid;
+    width: 75%
+}
